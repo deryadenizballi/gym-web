@@ -44,7 +44,7 @@ const Header = () => {
   return <header className='header' ref={headerRef}>
     <div className='container' >
         <div className="nav__wrapper">
-            {/* ======== Logo ======= */}
+            {/* ======== Logo ======== */}
             <div className="logo">
                 <div className="logo__img"><img src={logo} alt="logo" /></div>
                 <h2>FitBody</h2>
